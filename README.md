@@ -6,5 +6,6 @@ Neste projeto uso uma estrutura simples de MVC, sem muita ênfase em demonstrar 
 ## Ferramentas necessárias
 * XXampp - para simular um servidor simples de MySql
     * https://www.apachefriends.org/pt_br/download.html
+
 * MySql Workbench - (sem server) para visualizar os dados de crud mais facilmente
     * https://www.mysql.com/products/workbench/
